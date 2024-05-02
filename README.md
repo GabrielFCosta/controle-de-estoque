@@ -12,19 +12,19 @@
 
 ##### Product Database:
 
-- Produto consists of the basic product registration. Each product maintains its own HashSet of purchase lots for the respective product.
-- Compra represents purchases of a certain quantity at a specific unit price for a specific product. Each Purchase will maintain its own HashSet of resales of the respective purchase batch.
-- Revenda represents resales deducted from a purchase lot.
-- Compraset is instantiated in Produto and maintains a HashSet of purchases for that product.
-- Revendaset is instantiated in Compra and maintains a HashSet of resales from that product's purchase batch.
-- ProductBO maintains a HashSet of products with all other nested HashSets. ProdutoBO is managed in file by the setDAO class.
+> - Produto consists of the basic product registration. Each product maintains its own HashSet of purchase lots for the respective product.
+> - Compra represents purchases of a certain quantity at a specific unit price for a specific product. Each Purchase will maintain its own HashSet of resales of the respective purchase batch.
+> - Revenda represents resales deducted from a purchase lot.
+> - Compraset is instantiated in Produto and maintains a HashSet of purchases for that product.
+> - Revendaset is instantiated in Compra and maintains a HashSet of resales from that product's purchase batch.
+> - ProductBO maintains a HashSet of products with all other nested HashSets. ProdutoBO is managed in file by the setDAO class.
 
 ![image](https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/92cac5f9-a8bd-4875-bbb0-ba2637cd07a2)
 
 ###### Generation of unique codes (primary keys) from a record counter implemented in Colecao.
 
 ![image](https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/3e93fb64-de8d-4d2b-a253-fa37627c6077)
-<img src="https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/3e93fb64-de8d-4d2b-a253-fa37627c6077" width="10%" height="10%"/>
+<img src="https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/3e93fb64-de8d-4d2b-a253-fa37627c6077" width="25%" height="25%"/>
 
 ###### Dependencies between packages following the MVC standard.
 

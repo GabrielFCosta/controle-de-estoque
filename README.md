@@ -38,5 +38,5 @@
 > - Loading files into memory (in HashSets) uses native Java classes FileInputStream and ObjectInputStream.
 
 
-View de javadoc [here](https://gabrielfcosta.github.io/controle-de-estoque/) (in Portuguese).
+View the javadoc [here](https://gabrielfcosta.github.io/controle-de-estoque/){:target="_blank" rel="noopener"} (in Portuguese).
 

@@ -20,15 +20,18 @@
 > - ProductBO maintains a HashSet of products with all other nested HashSets. ProdutoBO is managed in file by the setDAO class.
 
 ![image](https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/92cac5f9-a8bd-4875-bbb0-ba2637cd07a2)
+<img src="https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/92cac5f9-a8bd-4875-bbb0-ba2637cd07a2" width="50%" height="50%"/>
 
 ###### Generation of unique codes (primary keys) from a record counter implemented in Colecao.
 
 ![image](https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/3e93fb64-de8d-4d2b-a253-fa37627c6077)
-<img src="https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/3e93fb64-de8d-4d2b-a253-fa37627c6077" width="25%" height="25%"/>
+<img src="https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/3e93fb64-de8d-4d2b-a253-fa37627c6077" width="50%" height="50%"/>
+
 
 ###### Dependencies between packages following the MVC standard.
 
 ![image](https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/b5f67715-56ce-4165-8ee1-fc3e0b2df4c1)
+<img src="https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/b5f67715-56ce-4165-8ee1-fc3e0b2df4c1" width="50%" height="50%"/>
 
 ##### File Management:
 

@@ -1,8 +1,8 @@
 #### Inventory Control Project
 
-> Generic inventory control system for resale products that manages two databases, one for suppliers and the other for products.
-> Product purchase batches are recorded for each product. For each purchase lot, resale lots can be registered.
-> Available quantity and total Product and Purchase balance are maintained by the system.
+> - Generic inventory control system for resale products that manages two databases, one for suppliers and the other for products.
+> - Product purchase batches are recorded for each product. For each purchase lot, resale lots can be registered.
+> - Available quantity and total Product and Purchase balance are maintained by the system.
 
 ##### Supplier database:
 
@@ -24,6 +24,7 @@
 ###### Generation of unique codes (primary keys) from a record counter implemented in Colecao.
 
 ![image](https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/3e93fb64-de8d-4d2b-a253-fa37627c6077)
+<img src="[drawing.jpg](https://github.com/GabrielFCosta/controle-de-estoque/assets/1496860/3e93fb64-de8d-4d2b-a253-fa37627c6077)" alt="drawing" width="25%" height="25%"/>
 
 ###### Dependencies between packages following the MVC standard.
 
